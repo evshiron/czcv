@@ -1,0 +1,24 @@
+{
+  "name": "czcv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "czcv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evshiron/czcv.git"
+  },
+  "author": "evshiron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evshiron/czcv/issues"
+  },
+  "homepage": "https://github.com/evshiron/czcv#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "striptags": "^3.1.1",
+    "yargs": "^12.0.1"
+  }
+}
